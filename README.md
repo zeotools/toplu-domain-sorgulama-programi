@@ -1,6 +1,11 @@
 # toplu-domain-sorgulama-programi
 Bu program, kullanıcıların alan adı kayıt durumunu sorgulamalarını sağlayan kullanıcı dostu bir araçtır. .exe formatında sunulmaktadır, böylece Python yüklü olmadan kullanılabilir.
+
+
+
 ![Proje Kapak Resmi](https://mave.net.tr/panel/uploads/portfolio_v/1080x426/dall%C2%B7e-2024-10-15-11-47-12---a-visually-appealing-cover-design-for-a-software-program--featuring-the-following-elements--1--a-modern-and-sleek-user-interface-of-a-domain-checking---1-.webp)
+
+
 
 
 
